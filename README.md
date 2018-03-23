@@ -13,7 +13,7 @@ Seller has a special page to see all the items they have posted for sell.
 Buyer has a special page to keep track of the items they have purchased and monitor the status of their request for every item. 
 
 
-General idea of BookShare is, (Craig's List for books)
+General idea of what BookShare is, (Craig's List for books)
 
 The application allows ellers to upload details about their books along with their contact information. Buyer's can search for their desired books via book title and request seller to purchase the book. 
 
