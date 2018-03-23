@@ -21,5 +21,10 @@ Seller will recieve the request sent from buyer. Seller can choose to accept or 
 
 Seller and buyer communicate in person through the provided email address. Once the sale is finalized, a meeting point is to complete the transaction. 
 
+Demo:
+
+https://drive.google.com/file/d/1srwxHSzt-P_2QlFEw5C3oQNjfo0TXbp2/view
+https://drive.google.com/file/d/1n8KFr9P9TgK7lJl-9yUcTbOI9SSctyC_/view
+
 
 
